@@ -1,0 +1,8 @@
+
+
+
+Address            PID    PPID   Name       Path                                              
+------------------ ------ ------ ---------- --------------------------------------
+0xffff88009d535280   2023   1447 atom       /home/raphaela/Documents/code/osb-cli/cli-menu.cpp
+0xffff88009d535280   2023   1447 atom       /home/raphaela/Documents/code/osb-cli/YARAFINDME  
+0xffff88009d535280   2023   1447 atom       /home/raphaela/Documents/code/osb-cli/YARAFINDME  
